@@ -1,8 +1,8 @@
-# hello-world#
+# hello-world #
 ## First GitHub Repo ###
-
+---
 ### Testing Markdown ###
-Headings are surrounded by one # for <H1> three ### for <H3> etc
+Headings are surrounded by one # for # H1 # three ### for ### H3 ### etc
 
 ### Ordered List ###
 
@@ -15,6 +15,6 @@ Headings are surrounded by one # for <H1> three ### for <H3> etc
 * Plus
 * or minus can be used
 
-**Trying markdown italics**
+*Trying markdown italics* single star
 
-*Bold*
+**Bold** star star
